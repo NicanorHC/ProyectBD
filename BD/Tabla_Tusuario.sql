@@ -1,0 +1,4 @@
+CREATE TABLE Code.Tusuario(Id_TUsuario INT AUTO_INCREMENT NOT NULL,
+NombreTUsuario VARCHAR(255),
+Descripcion VARCHAR (255),
+PRIMARY KEY (Id_TUsuario))ENGINE=InnoDB

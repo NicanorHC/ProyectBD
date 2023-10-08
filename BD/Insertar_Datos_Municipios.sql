@@ -1,0 +1,1 @@
+INSERT INTO Code.municipios(Id_Municipios, NombreMunicipios, Id_Estado)VALUES(NULL, 'Naucalpan', '1');

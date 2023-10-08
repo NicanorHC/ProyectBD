@@ -1,0 +1,4 @@
+CREATE TABLE Code.Carreras(Id_Carrera INT AUTO_INCREMENT NOT NULL,
+NombreCarrera VARCHAR(255) NOT NULL,
+Id_Grupo INT NOT NULL,
+Id_Semestre INT NOT NULL, PRIMARY KEY(Id_Carrera))ENGINE=InnoDB;

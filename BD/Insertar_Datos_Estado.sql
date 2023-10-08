@@ -1,0 +1,1 @@
+INSERT INTO Code.Estado(Id_Estado, Nombre_Estado)VALUES(NULL, 'Mexico');
